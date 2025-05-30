@@ -18,7 +18,7 @@ This project is a Google Dialogflow ES chatbot designed to assist students with 
 4. Use the simulator to test
 
 ##  Screenshots
-| Intents | Fullfillments | Analytics |
+| Intents | Fullfillments , Analytics |
 |--------|------------------|
 | ![intents](./screenshots/Intents.png) | ![Fulfillments](./screenshots/Fulfillments.png) |  ![Analytics](./screenshots/Analytics.png) |
 
