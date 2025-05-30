@@ -20,7 +20,7 @@ This project is a Google Dialogflow ES chatbot designed to assist students with 
 ##  Screenshots
 | Intents | Fullfillments | Analytics |
 |--------|------------------|
-| ![intents](./screenshots/intents.png) | ![Fulfillments](./screenshots/fullfillments.png) |  ![Analytics](./screenshots/Analytics.png) |
+| ![intents](./screenshots/Intents.png) | ![Fulfillments](./screenshots/Fulfillments.png) |  ![Analytics](./screenshots/Analytics.png) |
 
 ---
 
