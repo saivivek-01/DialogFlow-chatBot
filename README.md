@@ -9,7 +9,7 @@ This project is a Google Dialogflow ES chatbot designed to assist students with 
 
 ##  Files
 - `Career_ChatBot.zip`: Exported Dialogflow agent
-- `screenshots/`: Intent configuration and sample training phrases
+- `screenshots/`: Intent configuration, Fulfillment configuration and Analytics
 
 ##  How to Use
 1. Go to [Dialogflow Console](https://dialogflow.cloud.google.com)
